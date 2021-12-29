@@ -1,0 +1,7 @@
+{
+  "name": "p-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
