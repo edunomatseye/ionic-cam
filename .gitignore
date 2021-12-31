@@ -33,3 +33,6 @@ npm-debug.log*
 /android
 /ios
 /.angular
+.firebaserc
+firebase.json
+/public
